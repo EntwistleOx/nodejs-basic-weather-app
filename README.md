@@ -1,4 +1,4 @@
-# basic-weather-app
+# NodeJS Basic Weather App
 
 Node.js app, second part of The Complete Node.js Developer Guide by Andrew Mead.
 
